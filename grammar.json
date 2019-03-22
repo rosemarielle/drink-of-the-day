@@ -1,0 +1,8 @@
+{
+	"origin": [
+		"Sounds like a perfect day to grab a(n) #drink#!", "Thirsty? Why not try a(n) #drink#?", "Doesn't a(n) #drink# sound so good right now?"
+	],
+  "drink": [
+    "Wintermelon Creama from ShareTea", "McDonalds Mocha Frappe", "Iced Green Tea Latte from Starbucks", "Jamba Juice Acai Superantioxidant", "iTea Mango Crystal"
+  ]
+}
