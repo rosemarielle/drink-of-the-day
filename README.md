@@ -1,2 +1,2 @@
-# drink-of-the-day
-Twitter bot that gives daily drink recommendations.
+# Daily Drink Recommendatiojns
+Twitter bot that gives daily drink recommendations. Currently not running.
