@@ -1,8 +1,23 @@
 {
 	"origin": [
-		"Sounds like a perfect day to grab a(n) #drink#!", "Thirsty? Why not try a(n) #drink#?", "Doesn't a(n) #drink# sound so good right now?"
+		"Seems like a perfect day to grab #drink#!", 
+    "Doesn't #drink# sound so good right now?", 
+    "In the mood for boba? Why not try #boba#?", 
+    "Seems like a perfect day to grab #boba#!"
 	],
   "drink": [
-    "Wintermelon Creama from ShareTea", "McDonalds Mocha Frappe", "Iced Green Tea Latte from Starbucks", "Jamba Juice Acai Superantioxidant", "iTea Mango Crystal"
+    "McDonald's Mocha Frappe", 
+    "the Iced Green Tea Latte from Starbucks", 
+    "Jamba Juice's Acai Superantioxidant", 
+    "the Mocha Javiva from Peet's Coffee"
+  ],
+  "boba": [
+    "iTea's Mango Crystal", 
+    "the Yakult Green Tea from iTea", 
+    "iTea's Earl Grey Milk Tea", 
+    "the Wintermelon Tea Creama from ShareTea", 
+    "ShareTea's Okinawa Pearl Milk Tea", 
+    "the Taro Ice Blended with Pudding from ShareTea", 
+    "HappyLemon's Green Tea with Salted Cheese"
   ]
 }
