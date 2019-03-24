@@ -1,3 +1,7 @@
+# Daily Drink Recommendations
+Recommends random drinks each day! Currently down.
+
+# Tracery Tutorial
 Create a generative Twitter bot using [Tracery](http://tracery.io/). 
 
 This is a version of [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) that runs as a single bot. It is based on [v21/tracerybot](http://github.com/v21/tracerybot). 
