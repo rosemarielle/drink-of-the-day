@@ -1,5 +1,10 @@
-# Daily Drink Recommendations
-Recommends random drinks each day! Currently down.
+# Daily Drink Recommendations (DOWN)
+Current Features:
+- Chooses from a list of different drinks.
+- Posts daily!
+Future Features:
+- Separation of cold and hot drinks.
+- Bot decides on a drink based on the weather.
 
 # Tracery Tutorial
 Create a generative Twitter bot using [Tracery](http://tracery.io/). 
