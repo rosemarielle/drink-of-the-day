@@ -1,3 +1,13 @@
+# Daily Drink Recommendations (DOWN)
+Current Features:
+- Chooses from a list of different drinks.
+- Posts daily!
+
+Future Features:
+- Separation of cold and hot drinks.
+- Bot decides on a drink based on the weather.
+
+# Tracery Tutorial
 Create a generative Twitter bot using [Tracery](http://tracery.io/). 
 
 This is a version of [Cheap Bots, Done Quick!](http://cheapbotsdonequick.com/) that runs as a single bot. It is based on [v21/tracerybot](http://github.com/v21/tracerybot). 
