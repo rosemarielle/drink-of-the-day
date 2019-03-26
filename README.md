@@ -1,5 +1,5 @@
 # Daily Drink Recommendations
-Check out the bot on Twitter!(http://twitter.com/drinkotd)
+Check out the bot on [Twitter!](http://twitter.com/drinkotd)
 
 Current Features:
 - Chooses from a list of different drinks.
