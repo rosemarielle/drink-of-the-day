@@ -1,7 +1,9 @@
-# Daily Drink Recommendations (DOWN)
+# Daily Drink Recommendations
+Check out the bot on Twitter!(http://twitter.com/drinkotd)
+
 Current Features:
 - Chooses from a list of different drinks.
-- Posts daily!
+- Posts 4 times a day!
 
 Future Features:
 - Separation of cold and hot drinks.
